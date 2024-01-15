@@ -35,3 +35,17 @@ c) Låt oss säga att du bara hashar (utan salt) dina lösenord och din databas 
  Förklara TLS-handshake.
 
  Vad är skillnaden på assymmetrisk och symmetrisk kryptering? Vad är för- och nackdelarna mellan de båda?
+
+ ### OAuth 2.0
+Förklara OAuth 2.0 handshake.
+
+Varför skulle man vilja använda sig av OAuth 2.0? Finns det några nackdelar?
+
+### XSS
+Beskriv en hemsida. Beskriv sedan också en feature som skulle kunna vara sårbar för XSS. Förklara hur man kan förebygga en sådan attack.
+
+### CSRF
+Är CSRF alltid en sårbarhet om sidan är sårbar för XSS?
+
+Förklara hur man skulle kunna bli utsatt för en XSS-attack.
+
