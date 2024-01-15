@@ -19,3 +19,19 @@ a) Du har en hashingalgoritm som bara fungerar på strängar som är tal (exempe
 b) Vad blir hashen om du i ovanstående exempel har saltet "10"?
 
 c) Låt oss säga att du bara hashar (utan salt) dina lösenord och din databas läcker. Kan hackern få ut lösenorden i klartext? Resonera.
+
+### Miljövariabler
+ Vad är syftet med med miljövariabler? Hur kan de skydda dig i ett säkerhetsperspektiv?
+
+ ### RBAC
+
+ Vad menas med Principle of Least Privilege?
+
+ Vad menas med Deny by Default?
+
+ Vilka begränsningar har ett auktoriseringssystem som endast bygger på roller?
+
+ ### TLS
+ Förklara TLS-handshake.
+
+ Vad är skillnaden på assymmetrisk och symmetrisk kryptering? Vad är för- och nackdelarna mellan de båda?
