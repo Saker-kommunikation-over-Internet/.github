@@ -49,3 +49,6 @@ Beskriv en hemsida. Beskriv sedan också en feature som skulle kunna vara sårba
 
 Förklara hur man skulle kunna bli utsatt för en XSS-attack.
 
+### JWT
+Förklara steg för steg hur man genererar en token med claims: {user: 'peter'}. Du behöver inte ha verkliga base64-värden.
+
